@@ -6,7 +6,7 @@ import time
 
 # pygame initialization
 pygame.mixer.init()
-pygame.mixer.music.load("./ringtone.mp3")
+pygame.mixer.music.load("./day 9 - Alarm/ringtone2.mp3")
 pygame.mixer.music.set_volume(1)
 
 def set_alarm(alarm_time):
